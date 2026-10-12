@@ -35,7 +35,7 @@ The Django request lifecycle, project scaffolding, and MVT pattern architecture 
 
 - **Django Project Scaffolding & MVT Architecture Pipeline**:
 
-$$\begin{aligned}   \text{Command Line: } &\text{django-admin startproject} \xrightarrow{\text{manage.py startapp}} \text{Configured Project \& App Modules} \\   \text{MVT Pattern: } &\text{Model (Data)} \xrightarrow{\text{View (Logic)}} \text{Template (UI Presentation)}   \end{aligned}$$
+$$\begin{aligned}   \text{Command Line: } &\text{django-admin startproject} \xrightarrow{\text{manage.py startapp}} \text{Configured Project \ App Modules} \\   \text{MVT Pattern: } &\text{Model (Data)} \xrightarrow{\text{View (Logic)}} \text{Template (UI Presentation)}   \end{aligned}$$
 
 - **Core Module 1 Taxonomy**:
 
