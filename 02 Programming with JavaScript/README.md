@@ -1,3 +1,14 @@
+<div align="center">
+  
+# 🚀 Meta Front-End & Back-End Developer Professional Certificate
+[![Meta Specialization](https://img.shields.io/badge/Certification-Meta%20Full--Stack-blue?style=for-the-badge&logo=meta)](https://www.coursera.org/account/accomplishments/specialization/Q2TVRC6VSMR2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
+[![Status](https://img.shields.io/badge/Progress-02%20Courses%20Complete-success?style=for-the-badge)](https://coursera.org/share/7d5d088a148353efa236339149f53ed9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+---
+</div>
+
+
 # 💻 Course 2: Programming with JavaScript
 
 Welcome to **Course 2** of the **Meta Front-End Developer** (and **Meta Full-Stack Developer**) Professional Certificate program! JavaScript is the core programming language that powers the modern web. In this course, you will build a robust foundation in JavaScript programming—from fundamental syntax, control flow, and data structures to advanced programming paradigms (functional programming and object-oriented programming), DOM manipulation, JSON data exchange, and automated unit testing with Jest.
@@ -68,3 +79,17 @@ $$\begin{aligned}
 | Learning Framework | Core Language & Runtime | Development & Testing Stack | Interactive Platform |
 | :---: | :---: | :---: | :---: |
 | ![Meta Certificate](https://img.shields.io/badge/Meta-Front--End_Developer-blue?style=flat&logo=meta&logoColor=white) | ![JavaScript](https://img.shields.io/badge/Language-JavaScript_ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Tools](https://img.shields.io/badge/Tools-Node.js_%7C_Jest_%7C_npm_%7C_DOM-013243?style=flat) | ![Coursera](https://img.shields.io/badge/Coursera-Interactive_Learning-0056D2?style=flat&logo=coursera&logoColor=white) |
+
+---
+## 🚀 Professional Credentials
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+- 🎓 **Coursera Professional Certificate Verified**
+
+<div align="center">
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/92d8f0cce9865f69fcec2c9cf9f8714a"><img src="../certificates/002 Coursera Programming with JavaScript-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/7d5d088a148353efa236339149f53ed9) |
+
+</div>
