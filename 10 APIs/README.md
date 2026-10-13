@@ -1,3 +1,14 @@
+<div align="center">
+
+  
+# 🚀 Meta Front-End & Back-End Developer Professional Certificate
+[![Meta Specialization](https://img.shields.io/badge/Certification-Meta%20Full--Stack-blue?style=for-the-badge&logo=meta)](https://www.coursera.org/account/accomplishments/specialization/Q2TVRC6VSMR2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
+[![Status](https://img.shields.io/badge/Progress-10%20Courses%20Complete-success?style=for-the-badge)](https://coursera.org/share/85272794f24e482b3ef73d5e0aa41a71)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+---
+</div>
+
 # 🔌 Course 10: APIs
 
 Welcome to **Course 10** of the **Meta Full-Stack Developer** Professional Certificate program! This course explores the principles, tools, and best practices required to architect, construct, secure, optimize, and evaluate production-ready Web APIs. Transitioning from traditional server-side template rendering to decoupled client-server architecture, you will leverage **Django REST Framework (DRF)** to construct RESTful endpoints, implement data serialization and validation, configure role-based authentication and authorization, apply query filtering and pagination, enforce rate throttling and caching, and deploy the complete "Little Lemon" backend API service.
@@ -64,3 +75,20 @@ $$\begin{aligned} \text{Client Request: } &\text{HTTP Method + Bearer Token / JW
 | Learning Framework | Core Technologies & Stack | Development & Testing Environment | Interactive Platform |
 | :---: | :---: | :---: | :---: |
 | ![Meta Certificate](https://img.shields.io/badge/Meta-Full--Stack_Developer-blue?style=flat&logo=meta&logoColor=white) | ![DRF](https://img.shields.io/badge/Stack-Django_REST_Framework_%7C_Python_3_%7C_JWT_%7C_Djoser-092E20?style=flat&logo=django&logoColor=white) | ![Tools](https://img.shields.io/badge/Tools-VS_Code_%7C_Pipenv_%7C_Postman_%7C_Debug_Toolbar-013243?style=flat) | ![Coursera](https://img.shields.io/badge/Coursera-Interactive_Learning-0056D2?style=flat&logo=coursera&logoColor=white) |
+
+
+---
+## 🚀 Professional Credentials
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+- 🎓 **Coursera Professional Certificate Verified**
+
+
+
+<div align="center">
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/85272794f24e482b3ef73d5e0aa41a71"><img src="../certificates/010 Coursera APIs-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/85272794f24e482b3ef73d5e0aa41a71) |
+
+</div>
