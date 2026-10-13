@@ -1,4 +1,15 @@
+<div align="center">
+
+  
 # 🚀 Meta Front-End & Back-End Developer Professional Certificate
+[![Meta Specialization](https://img.shields.io/badge/Certification-Meta%20Full--Stack-blue?style=for-the-badge&logo=meta)](https://coursera.org/share/63c001e08c5f72eddab397822f4c3814)
+[![Status](https://img.shields.io/badge/Progress-All%20Courses%20Complete-success?style=for-the-badge)](https://coursera.org/share/63c001e08c5f72eddab397822f4c3814)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+---
+</div>
+
+# Specialization Overview: 🌐 Full-Stack Software Engineering
 
 Welcome to the comprehensive, 10-course flagship **Meta Full-Stack Developer** Specialization repository! This program delivers an end-to-end software engineering curriculum designed by Meta experts to train full-stack web developers. Throughout this specialization, you build expertise across the entire modern web stack—spanning responsive UI engineering, single-page client applications, version control, server-side development, relational database engineering, RESTful API architecture, and full-stack deployment.
 
@@ -72,3 +83,20 @@ $$\begin{aligned} \text{Client Layer: } &\text{Browser UI (React / HTML5 / CSS3)
 | Front-End Stack | Back-End Stack | Database Engine | DevOps & Tools | Interactive Platform |
 | :---: | :---: | :---: | :---: | :---: |
 | ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5/CSS3](https://img.shields.io/badge/HTML5_%7C_CSS3-Bootstrap-E34F26?style=flat&logo=html5&logoColor=white) | ![Django](https://img.shields.io/badge/Django-5.0-092E20?style=flat&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-REST_APIs-red?style=flat&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Relational_DB-003545?style=flat) | ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white) | ![Meta Certificate](https://img.shields.io/badge/Meta-Full--Stack_Developer-blue?style=flat&logo=meta&logoColor=white) |
+
+
+---
+## 🚀 Professional Credentials
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+- 🎓 **Coursera Professional Certificate Verified**
+
+
+
+<div align="center">
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/63c001e08c5f72eddab397822f4c3814"><img src="certificates/Coursera Front-End & Back-End from Scratch Specialization Certificate-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/63c001e08c5f72eddab397822f4c3814) |
+
+</div>
