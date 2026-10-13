@@ -8,6 +8,7 @@
 
 ---
 </div>
+
 # ⚛️ Course 6: Advanced React
 
 Welcome to **Course 6** of the **Meta Front-End Developer** (and **Meta Full-Stack Developer**) Professional Certificate program! This course elevates your front-end engineering expertise by diving into advanced React concepts, complex component patterns, global state management, remote API integration, custom hook creation, and automated component testing. You will master efficient list rendering, controlled forms, React Context, `useEffect` and `useReducer` hooks, Higher-Order Components (HOCs), Render Props, and robust testing using Jest and React Testing Library (RTL).
