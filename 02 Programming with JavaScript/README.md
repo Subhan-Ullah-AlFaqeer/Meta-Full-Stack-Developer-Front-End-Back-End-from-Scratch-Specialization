@@ -89,7 +89,7 @@ Upon the successful completion of this rigorous engineering track, I have earned
 
 | **Official Certificate** |
 | :---: |
-| <a href="https://coursera.org/share/92d8f0cce9865f69fcec2c9cf9f8714a"><img src="../certificates/002 Coursera Programming with JavaScript-1.png" width="580" alt="View Certificate"></a> |
+| <a href="https://coursera.org/share/7d5d088a148353efa236339149f53ed9"><img src="../certificates/002 Coursera Programming with JavaScript-1.png" width="580" alt="View Certificate"></a> |
 | [🛡️ Verify on Coursera](https://coursera.org/share/7d5d088a148353efa236339149f53ed9) |
 
 </div>
