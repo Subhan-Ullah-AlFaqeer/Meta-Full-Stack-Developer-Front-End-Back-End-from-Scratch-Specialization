@@ -1,3 +1,17 @@
+<div align="center">
+
+  
+# 🚀 Meta Front-End & Back-End Developer Professional Certificate
+[![Meta Specialization](https://img.shields.io/badge/Certification-Meta%20Full--Stack-blue?style=for-the-badge&logo=meta)](https://www.coursera.org/account/accomplishments/specialization/Q2TVRC6VSMR2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
+[![Status](https://img.shields.io/badge/Progress-08%20Courses%20Complete-success?style=for-the-badge)](https://coursera.org/share/dd5207c7633aae4eb63aa2a72719684c)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+---
+</div>
+
+
+
+
 # 🗄️ Course 8: Introduction to Databases for Back-End Development
 
 Welcome to **Course 8** of the **Meta Full-Stack Developer** Professional Certificate program! Back-end developers build applications that allow users to store, search, extract, and manipulate data seamlessly. This course provides a comprehensive introduction to relational database management systems (RDBMS), MySQL syntax and commands, Structured Query Language (SQL) CRUD operations, data filtering/sorting, schema architecture, entity-relationship diagrams (ERDs), and normalization principles (1NF, 2NF, 3NF).
@@ -64,3 +78,20 @@ $$\begin{aligned}   \text{Design and Schema: } && \text{Entity Modeling and ERDs
 | Learning Framework | Core Technologies & Stack | Development & Query Environment | Interactive Platform |
 | :---: | :---: | :---: | :---: |
 | ![Meta Certificate](https://img.shields.io/badge/Meta-Full--Stack_Developer-blue?style=flat&logo=meta&logoColor=white) | ![SQL](https://img.shields.io/badge/Stack-MySQL_%7C_SQL_%7C_Relational_DB_%7C_Normalization_3NF-4479A1?style=flat&logo=mysql&logoColor=white) | ![Tools](https://img.shields.io/badge/Tools-VS_Code_%7C_MySQL_Terminal_%7C_Database_Client-013243?style=flat) | ![Coursera](https://img.shields.io/badge/Coursera-Interactive_Learning-0056D2?style=flat&logo=coursera&logoColor=white) |
+
+
+---
+## 🚀 Professional Credentials
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+- 🎓 **Coursera Professional Certificate Verified**
+
+
+
+<div align="center">
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/dd5207c7633aae4eb63aa2a72719684c"><img src="../certificates/008 Coursera Introduction to Databases for Back-End Development-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/dd5207c7633aae4eb63aa2a72719684c) |
+
+</div>
