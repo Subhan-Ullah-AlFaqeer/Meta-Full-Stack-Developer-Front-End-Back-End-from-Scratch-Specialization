@@ -1,3 +1,13 @@
+<div align="center">
+
+  
+# 🚀 Meta Front-End & Back-End Developer Professional Certificate
+[![Meta Specialization](https://img.shields.io/badge/Certification-Meta%20Full--Stack-blue?style=for-the-badge&logo=meta)](https://www.coursera.org/account/accomplishments/specialization/Q2TVRC6VSMR2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
+[![Status](https://img.shields.io/badge/Progress-06%20Courses%20Complete-success?style=for-the-badge)](https://coursera.org/share/21e018e0df58a5f79b2ef0bb21916c6e)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+---
+</div>
 # ⚛️ Course 6: Advanced React
 
 Welcome to **Course 6** of the **Meta Front-End Developer** (and **Meta Full-Stack Developer**) Professional Certificate program! This course elevates your front-end engineering expertise by diving into advanced React concepts, complex component patterns, global state management, remote API integration, custom hook creation, and automated component testing. You will master efficient list rendering, controlled forms, React Context, `useEffect` and `useReducer` hooks, Higher-Order Components (HOCs), Render Props, and robust testing using Jest and React Testing Library (RTL).
@@ -63,3 +73,20 @@ $$\begin{aligned}   \text{Advanced Components: } \text{List Arrays (.map())} \xr
 | Learning Framework | Core Technologies & Stack | Development & Testing Environment | Interactive Platform |
 | :---: | :---: | :---: | :---: |
 | ![Meta Certificate](https://img.shields.io/badge/Meta-Front--End_Developer-blue?style=flat&logo=meta&logoColor=white) | ![Stack](https://img.shields.io/badge/Stack-React_18_%7C_Context_%7C_Jest_%7C_RTL_%7C_Custom_Hooks-61DAFB?style=flat&logo=react&logoColor=black) | ![Tools](https://img.shields.io/badge/Tools-VS_Code_%7C_Jest_Runner_%7C_REST_APIs_%7C_Peer_Review-013243?style=flat) | ![Coursera](https://img.shields.io/badge/Coursera-Interactive_Learning-0056D2?style=flat&logo=coursera&logoColor=white) |
+
+
+---
+## 🚀 Professional Credentials
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+- 🎓 **Coursera Professional Certificate Verified**
+
+
+
+<div align="center">
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/21e018e0df58a5f79b2ef0bb21916c6e"><img src="../certificates/006 Coursera Advanced React-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/21e018e0df58a5f79b2ef0bb21916c6e) |
+
+</div>
