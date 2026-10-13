@@ -1,3 +1,14 @@
+<div align="center">
+
+  
+# 🚀 Meta Front-End & Back-End Developer Professional Certificate
+[![Meta Specialization](https://img.shields.io/badge/Certification-Meta%20Full--Stack-blue?style=for-the-badge&logo=meta)](https://www.coursera.org/account/accomplishments/specialization/Q2TVRC6VSMR2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
+[![Status](https://img.shields.io/badge/Progress-05%20Courses%20Complete-success?style=for-the-badge)](https://coursera.org/share/e39d6ad5c8394163e31e15643baab866)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+---
+</div>
+
 # ⚛️ Course 5: React Basics
 
 Welcome to **Course 5** of the **Meta Front-End Developer** (and **Meta Full-Stack Developer**) Professional Certificate program! This course introduces you to the fundamentals of React.js—the powerful JavaScript library created by Meta for building scalable, high-performance, and interactive user interfaces for web and mobile applications. You will learn component-based architecture, JSX templating, props data flow, event handling and state management via hooks, conditional rendering, single-page navigation, asset bundling, and capstone application development.
@@ -67,3 +78,21 @@ $$\begin{aligned}
 | Learning Framework | Core Technologies & Stack | Development & Testing Environment | Interactive Platform |
 | :---: | :---: | :---: | :---: |
 | ![Meta Certificate](https://img.shields.io/badge/Meta-Front--End_Developer-blue?style=flat&logo=meta&logoColor=white) | ![React](https://img.shields.io/badge/Stack-React_18_%7C_JSX_%7C_useState_%7C_React_Router-61DAFB?style=flat&logo=react&logoColor=black) | ![Tools](https://img.shields.io/badge/Tools-VS_Code_%7C_Node.js_%7C_Vite/Webpack_%7C_Peer_Review-013243?style=flat) | ![Coursera](https://img.shields.io/badge/Coursera-Interactive_Learning-0056D2?style=flat&logo=coursera&logoColor=white) |
+
+
+
+---
+## 🚀 Professional Credentials
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+- 🎓 **Coursera Professional Certificate Verified**
+
+
+
+<div align="center">
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/e39d6ad5c8394163e31e15643baab866"><img src="../certificates/005 Coursera React Basics-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/e39d6ad5c8394163e31e15643baab866) |
+
+</div>
