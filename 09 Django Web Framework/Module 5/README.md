@@ -33,7 +33,7 @@ The comprehensive end-to-end Django web application architecture governing Cours
 
 $$\begin{aligned}
   \text{HTTP Request: } &\text{URL Routing (urls.py)} \xrightarrow{\text{Views (views.py)}} \text{Business Logic \ Form Validation} \\
-  \text{MVT Data \& UI: } &\text{Django ORM / MySQL DB} \xleftrightarrow{\text{Models (models.py)}} \text{Views} \xrightarrow{\text{DTL Engine}} \text{Rendered HTML UI Response} \\
+  \text{MVT Data \ UI: } &\text{Django ORM / MySQL DB} \xleftrightarrow{\text{Models (models.py)}} \text{Views} \xrightarrow{\text{DTL Engine}} \text{Rendered HTML UI Response} \\
   \text{Capstone: } &\text{Full Application Synthesis} \xrightarrow{\text{Little Lemon Website}} \text{Transition to Web APIs  REST}
   \end{aligned}$$
 
