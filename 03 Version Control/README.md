@@ -1,3 +1,13 @@
+<div align="center">
+
+# 🚀 Meta Front-End & Back-End Developer Professional Certificate
+[![Meta Specialization](https://img.shields.io/badge/Certification-Meta%20Full--Stack-blue?style=for-the-badge&logo=meta)](https://www.coursera.org/account/accomplishments/specialization/Q2TVRC6VSMR2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
+[![Status](https://img.shields.io/badge/Progress-03%20Courses%20Complete-success?style=for-the-badge)](https://coursera.org/share/66f994e6f353b9b4b21cb7229027db68)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+---
+</div>
+
 # 🗂️ Course 3: Version Control
 
 Welcome to **Course 3** of the **Meta Front-End Developer** (and **Meta Full-Stack Developer**) Professional Certificate program! This course equips you with the essential collaboration tools, command-line skills, and version control methodologies used by modern software engineering teams worldwide. You will learn how to navigate file systems using Unix/Bash commands, automate tasks with pipes and redirection, master distributed version control with Git, and coordinate shared codebases securely via GitHub.
@@ -62,3 +72,19 @@ $$\begin{aligned}   \text{CLI Navigation: } \text{Terminal (Bash)} \xrightarrow{
 | Learning Framework | Core Technologies & Tools | Development & Collaboration Environment | Interactive Platform |
 | :---: | :---: | :---: | :---: |
 | ![Meta Certificate](https://img.shields.io/badge/Meta-Front--End_Developer-blue?style=flat&logo=meta&logoColor=white) | ![Git/GitHub/Bash](https://img.shields.io/badge/Stack-Git_%7C_GitHub_%7C_Bash_%7C_Unix-F05032?style=flat&logo=git&logoColor=white) | ![Tools](https://img.shields.io/badge/Tools-Terminal_%7C_VS_Code_Git_%7C_SSH_Keys_%7C_Markdown-013243?style=flat) | ![Coursera](https://img.shields.io/badge/Coursera-Interactive_Learning-0056D2?style=flat&logo=coursera&logoColor=white) |
+
+
+---
+## 🚀 Professional Credentials
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+- 🎓 **Coursera Professional Certificate Verified**
+
+
+<div align="center">
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/66f994e6f353b9b4b21cb7229027db68"><img src="../certificates/003 Coursera Version Control-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/66f994e6f353b9b4b21cb7229027db68) |
+
+</div>
