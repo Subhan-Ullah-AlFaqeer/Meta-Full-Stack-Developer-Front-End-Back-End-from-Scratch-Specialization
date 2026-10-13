@@ -1,3 +1,14 @@
+<div align="center">
+
+  
+# 🚀 Meta Front-End & Back-End Developer Professional Certificate
+[![Meta Specialization](https://img.shields.io/badge/Certification-Meta%20Full--Stack-blue?style=for-the-badge&logo=meta)](https://www.coursera.org/account/accomplishments/specialization/Q2TVRC6VSMR2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
+[![Status](https://img.shields.io/badge/Progress-02%20Courses%20Complete-success?style=for-the-badge)](https://coursera.org/share/201d34950a8023b399b9b154027ea8c6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+---
+</div>
+
 # 🌐 Course 4: HTML and CSS in Depth
 
 Welcome to **Course 4** of the **Meta Front-End Developer** (and **Meta Full-Stack Developer**) Professional Certificate program! This course builds directly upon your foundational web development skills, diving deep into advanced HTML5 semantic architecture, complex forms, rich media embedding, advanced CSS layout engines (Flexbox and CSS Grid), precise selector specificity, visual transitions/animations, Bootstrap grid systems and components, debugging tools, and front-end UI testing.
@@ -62,3 +73,19 @@ $$\begin{aligned}   \text{Structure \ Semantics: } \text{Semantic HTML5 / OGP Me
 | Learning Framework | Core Technologies & Stack | Development & Testing Environment | Interactive Platform |
 | :---: | :---: | :---: | :---: |
 | ![Meta Certificate](https://img.shields.io/badge/Meta-Front--End_Developer-blue?style=flat&logo=meta&logoColor=white) | ![Stack](https://img.shields.io/badge/Stack-HTML5_%7C_CSS3_%7C_Flexbox_%7C_Grid_%7C_Bootstrap-E34F26?style=flat&logo=html5&logoColor=white) | ![Tools](https://img.shields.io/badge/Tools-VS_Code_%7C_Linters_%7C_DevTools_%7C_Peer_Review-013243?style=flat) | ![Coursera](https://img.shields.io/badge/Coursera-Interactive_Learning-0056D2?style=flat&logo=coursera&logoColor=white) |
+
+
+---
+## 🚀 Professional Credentials
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+- 🎓 **Coursera Professional Certificate Verified**
+
+
+<div align="center">
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/201d34950a8023b399b9b154027ea8c6"><img src="../certificates/004 Coursera HTML and CSS in depth-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/201d34950a8023b399b9b154027ea8c6) |
+
+</div>
