@@ -1,3 +1,17 @@
+<div align="center">
+
+  
+# 🚀 Meta Front-End & Back-End Developer Professional Certificate
+[![Meta Specialization](https://img.shields.io/badge/Certification-Meta%20Full--Stack-blue?style=for-the-badge&logo=meta)](https://www.coursera.org/account/accomplishments/specialization/Q2TVRC6VSMR2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
+[![Status](https://img.shields.io/badge/Progress-09%20Courses%20Complete-success?style=for-the-badge)](https://coursera.org/share/c39e934b6b9c273d432a60958ad0ad0c)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+---
+</div>
+
+
+
+
 # 🌐 Course 9: Django Web Framework
 
 Welcome to **Course 9** of the **Meta Full-Stack Developer** Professional Certificate program! In this course, you leverage the Django web framework to build, secure, and administer a production-ready web server. You will explore project scaffolding, Model-View-Template (MVT) architecture, URL routing, view logic, model creation and migrations, Object-Relational Mapping (ORM), Django forms, template language (DTL) rendering, admin permission management, MySQL integration, and the "Little Lemon" capstone project.
@@ -65,3 +79,21 @@ $$\begin{aligned} \text{HTTP Request: } &\text{URL Routing (urls.py)} \xrightarr
 | Learning Framework | Core Technologies & Stack | Development & Server Environment | Interactive Platform |
 | :---: | :---: | :---: | :---: |
 | ![Meta Certificate](https://img.shields.io/badge/Meta-Full--Stack_Developer-blue?style=flat&logo=meta&logoColor=white) | ![Django](https://img.shields.io/badge/Stack-Django_5_%7C_Python_3_%7C_MySQL_%7C_DTL_%7C_ORM-092E20?style=flat&logo=django&logoColor=white) | ![Tools](https://img.shields.io/badge/Tools-VS_Code_%7C_manage.py_%7C_MySQL_Server_%7C_Browser-013243?style=flat) | ![Coursera](https://img.shields.io/badge/Coursera-Interactive_Learning-0056D2?style=flat&logo=coursera&logoColor=white) |
+
+
+
+---
+## 🚀 Professional Credentials
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+- 🎓 **Coursera Professional Certificate Verified**
+
+
+
+<div align="center">
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/c39e934b6b9c273d432a60958ad0ad0c"><img src="../certificates/009 Coursera Django Web Framework -1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/c39e934b6b9c273d432a60958ad0ad0c) |
+
+</div>
