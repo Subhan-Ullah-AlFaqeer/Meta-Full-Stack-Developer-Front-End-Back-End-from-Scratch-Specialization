@@ -3,7 +3,7 @@
   
 # 🚀 Meta Front-End & Back-End Developer Professional Certificate
 [![Meta Specialization](https://img.shields.io/badge/Certification-Meta%20Full--Stack-blue?style=for-the-badge&logo=meta)](https://www.coursera.org/account/accomplishments/specialization/Q2TVRC6VSMR2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
-[![Status](https://img.shields.io/badge/Progress-02%20Courses%20Complete-success?style=for-the-badge)](https://coursera.org/share/201d34950a8023b399b9b154027ea8c6)
+[![Status](https://img.shields.io/badge/Progress-04%20Courses%20Complete-success?style=for-the-badge)](https://coursera.org/share/201d34950a8023b399b9b154027ea8c6)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
 
 ---
