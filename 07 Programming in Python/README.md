@@ -1,3 +1,14 @@
+<div align="center">
+
+  
+# 🚀 Meta Front-End & Back-End Developer Professional Certificate
+[![Meta Specialization](https://img.shields.io/badge/Certification-Meta%20Full--Stack-blue?style=for-the-badge&logo=meta)](https://www.coursera.org/account/accomplishments/specialization/Q2TVRC6VSMR2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
+[![Status](https://img.shields.io/badge/Progress-07%20Courses%20Complete-success?style=for-the-badge)](https://coursera.org/share/ad556cb06aa218492fb166e55a8f6545)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+---
+</div>
+
 # 🐍 Course 7: Programming in Python
 
 Welcome to **Course 7** of the **Meta Front-End / Full-Stack Developer** Professional Certificate program! This course introduces you to foundational programming concepts, Python syntax, and problem-solving methodologies. You will explore core data structures, control flow, functions, exception handling, file I/O operations, multi-paradigm programming (procedural, functional, and object-oriented), and automated testing using PyTest.
@@ -64,3 +75,19 @@ The comprehensive end-to-end Python programming, paradigm architecture, and test
 | Learning Framework | Core Technologies & Stack | Development & Testing Environment | Interactive Platform |
 | :---: | :---: | :---: | :---: |
 | ![Meta Certificate](https://img.shields.io/badge/Meta-Full--Stack_Developer-blue?style=flat&logo=meta&logoColor=white) | ![Python](https://img.shields.io/badge/Stack-Python_3_%7C_OOP_%7C_PyTest_%7C_NumPy_%7C_Pandas-3776AB?style=flat&logo=python&logoColor=white) | ![Tools](https://img.shields.io/badge/Tools-VS_Code_%7C_PyTest_Runner_%7C_Python_Interpreter-013243?style=flat) | ![Coursera](https://img.shields.io/badge/Coursera-Interactive_Learning-0056D2?style=flat&logo=coursera&logoColor=white) |
+
+---
+## 🚀 Professional Credentials
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+- 🎓 **Coursera Professional Certificate Verified**
+
+
+
+<div align="center">
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/ad556cb06aa218492fb166e55a8f6545"><img src="../certificates/007 Coursera Programming in Python-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/ad556cb06aa218492fb166e55a8f6545) |
+
+</div>
