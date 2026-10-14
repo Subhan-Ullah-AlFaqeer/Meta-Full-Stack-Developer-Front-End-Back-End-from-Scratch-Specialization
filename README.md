@@ -96,7 +96,7 @@ Upon the successful completion of this rigorous engineering track, I have earned
 
 | **Official Certificate** |
 | :---: |
-| <a href="https://coursera.org/share/63c001e08c5f72eddab397822f4c3814"><img src="certificates/Coursera Front-End & Back-End from Scratch Specialization Certificate-1.png" width="580" alt="View Certificate"></a> |
+| <a href="https://coursera.org/share/63c001e08c5f72eddab397822f4c3814"><img src="certificates/Coursera  Front-End & Back-End from Scratch Specialization Certificate-1.png" width="580" alt="View Certificate"></a> |
 | [🛡️ Verify on Coursera](https://coursera.org/share/63c001e08c5f72eddab397822f4c3814) |
 
 </div>
